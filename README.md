@@ -1,7 +1,7 @@
 AppChat-android
 ===============
 
-Module programmation web :
+Module programmation web : Création d'une application de chat
 
 
 Application de chat Android, client serveur utilisant les sockets Java
